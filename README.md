@@ -39,7 +39,7 @@ Running the script produces **the well-known pinched I–V curve**, which crosse
 - The slope evolves depending on its state — reflecting its memory of previous signals.
 - This shows how **memristors can retain information even after the stimulus is gone**, which forms the basis for their applications in neuromorphic computing, memory storage, and adaptive circuits.
 
-![Memristor I–V Curve](https://raw.githubusercontent.com/neiltauro/HW_for_AI_Challange_28/memristor_iv_curve.png)
+![Memristor I–V Curve](https://raw.githubusercontent.com/neiltauro/HW_for_AI_Challange_28/Figure1.png)
 
 ---
 
